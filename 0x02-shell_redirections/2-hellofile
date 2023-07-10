@@ -1,2 +1,2 @@
-#!/bin/bash:wq
+#!/bin/bash
 cat /etc/passwd
