@@ -1,5 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
+# This script  displays its PID.
 
-# Display the Process ID (PID) of the script
 echo $$
-
