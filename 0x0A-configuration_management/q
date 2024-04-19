@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "shell 2"
+git commit -m "shell dadw"
 git push
